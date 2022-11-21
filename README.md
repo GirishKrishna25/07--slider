@@ -1,3 +1,5 @@
+[deploy](https://project-o7-slider.netlify.app/)
+
 ##### lastSlide - activeSlide - nextSlide (like circle)
 
 ###### opacity becomes 1 for only active slide and also we use overflow: hidden property.if we use use postiton: absolute, we must provide height to the element.
