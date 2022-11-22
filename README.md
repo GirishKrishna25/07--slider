@@ -1,4 +1,4 @@
-[project deploy link](https://project-o7-slider.netlify.app/)
+[project deploy link](https://project-07-slider.netlify.app/)
 
 ##### lastSlide - activeSlide - nextSlide (like circle)
 
